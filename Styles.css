@@ -1,0 +1,216 @@
+body
+{margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+color: #40514e;
+}
+
+
+
+h1{
+   
+    margin:50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+  font-size: 90px;
+ color:green;
+line-height: 2;
+
+}
+
+
+h2{ font-size: 2.5rem;
+    
+}
+.top-container{background-color:#E4F9F5;
+    position: relative;
+    padding-top:  100px;
+
+
+}
+p{
+   
+}
+
+h2 {font-family: 'Montserrat', sans-serif;
+    color: green;
+    font-weight: normal;
+    
+
+}
+h3{font-family: 'Montserrat', sans-serif;
+    color: green;
+
+}
+
+
+
+.middle-container{background-color:whitesmoke;
+   
+    margin-top: 0;
+    
+
+    padding-top: 50px;
+    padding-bottom: 30px;
+    
+}
+
+.profile{
+    width: 30%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    
+    
+    
+}
+
+.pro { text-decoration: underline;
+
+}
+
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top: 50px;
+    width: 10%;
+    
+}
+
+.bottom-cloud {   
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+
+.skill-row{
+    width: 60%;
+    margin: 100px auto 100px auto;
+    
+    line-height: 2;
+    text-align: left;
+  text-combine-upright: 20px;
+  line-break: normal;
+    
+  
+    
+    
+
+   
+}
+
+.my-image{
+    width: 25%;
+    
+}
+
+.skill-image{
+    width: 25%;
+ 
+    margin-right: 30px;
+    float: left;
+    
+}
+
+.skill-text{
+    line-height: 2;
+   
+   
+ inline-size:75%;
+
+    
+ }
+
+ .my-text{ 
+ line-height:2;
+   
+ inline-size: 100%;
+
+
+}
+
+ .travel-image{
+    width: 25%;
+    margin-left: 30px;
+  
+    float: right;
+    
+ }
+
+
+
+ 
+
+.btn{
+
+  background-color: #66bfbf;
+  border-radius: 999px;
+  box-shadow: 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+}
+
+    
+
+
+
+
+hr{
+   border: dotted gainsboro 6px;
+border-bottom: none;
+width: 4%;
+}
+   
+    
+
+.bottom-container{
+    background-color: #66bfbf;
+  margin-top:0;
+    
+    
+
+    padding-top: 50px;
+   padding-bottom: 50px;
+}
+
+.contact-me{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+
+.footer-link{
+    position: relative;
+   margin:10px 10px ;
+   text-decoration: none;
+   color: #11999e;
+   
+   }
+   a:hover{
+    color: #eaf6f6;
+   }
+
+
+
+
+.touch{
+    width: 50%;
+    margin: auto;
+}
+.conclusion{
+color: #eaf6f6; 
+font-size: 0.75rem;
+}
